@@ -1,0 +1,86 @@
+import React, { ReactElement } from 'react';
+import { ScrollView, Text } from 'react-native';
+
+export function HomeScreen(): ReactElement {
+  return (
+    <ScrollView style={{ flex: 1 }}>
+      <Text>ASDF</Text>
+      <Text>ASDF</Text>
+      <Text>ASDF</Text>
+      <Text>ASDF</Text>
+      <Text>ASDF</Text>
+      <Text>ASDF</Text>
+      <Text>ASDF</Text>
+      <Text>ASDF</Text>
+      <Text>ASDF</Text>
+      <Text>ASDF</Text>
+      <Text>ASDF</Text>
+      <Text>ASDF</Text>
+      <Text>ASDF</Text>
+      <Text>ASDF</Text>
+      <Text>ASDF</Text>
+      <Text>ASDF</Text>
+      <Text>ASDF</Text>
+      <Text>ASDF</Text>
+      <Text>ASDF</Text>
+      <Text>ASDF</Text>
+      <Text>ASDF</Text>
+      <Text>ASDF</Text>
+      <Text>ASDF</Text>
+      <Text>ASDF</Text>
+      <Text>ASDF</Text>
+      <Text>ASDF</Text>
+      <Text>ASDF</Text>
+      <Text>ASDF</Text>
+      <Text>ASDF</Text>
+      <Text>ASDF</Text>
+      <Text>ASDF</Text>
+      <Text>ASDF</Text>
+      <Text>ASDF</Text>
+      <Text>ASDF</Text>
+      <Text>ASDF</Text>
+      <Text>ASDF</Text>
+      <Text>ASDF</Text>
+      <Text>ASDF</Text>
+      <Text>ASDF</Text>
+      <Text>ASDF</Text>
+      <Text>ASDF</Text>
+      <Text>ASDF</Text>
+      <Text>ASDF</Text>
+      <Text>ASDF</Text>
+      <Text>ASDF</Text>
+      <Text>ASDF</Text>
+      <Text>ASDF</Text>
+      <Text>ASDF</Text>
+      <Text>ASDF</Text>
+      <Text>ASDF</Text>
+      <Text>ASDF</Text>
+      <Text>ASDF</Text>
+      <Text>ASDF</Text>
+      <Text>ASDF</Text>
+      <Text>ASDF</Text>
+      <Text>ASDF</Text>
+      <Text>ASDF</Text>
+      <Text>ASDF</Text>
+      <Text>ASDF</Text>
+      <Text>ASDF</Text>
+      <Text>ASDF</Text>
+      <Text>ASDF</Text>
+      <Text>ASDF</Text>
+      <Text>ASDF</Text>
+      <Text>ASDF</Text>
+      <Text>ASDF</Text>
+      <Text>ASDF</Text>
+      <Text>ASDF</Text>
+      <Text>ASDF</Text>
+      <Text>ASDF</Text>
+      <Text>ASDF</Text>
+      <Text>ASDF</Text>
+      <Text>ASDF</Text>
+      <Text>ASDF</Text>
+      <Text>ASDF</Text>
+      <Text>ASDF</Text>
+      <Text>ASDF</Text>
+    </ScrollView>
+  );
+}

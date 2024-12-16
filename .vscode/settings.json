@@ -1,0 +1,26 @@
+{
+  "files.exclude": {
+    "node_modules/": true
+  },
+  "search.exclude": {
+    "**/node_modules": true,
+    "ios": true,
+    "android": true,
+    "vendor": true
+  },
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": "explicit",
+    "source.fixAll": "explicit"
+  },
+  "eslint.validate": [
+    "javascript",
+    "javascriptreact",
+    "typescript",
+    "typescriptreact"
+  ],
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "[typescriptreact]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "prettier.configPath": ".prettierrc.js"
+}
